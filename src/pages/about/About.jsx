@@ -19,7 +19,7 @@ const About = () => {
           defaultImageWidth: 800,
           images: [
             {
-              url: "https://www.jyotishbigyan.com/logo.png",
+              url: "https://astraguru.appharu.com/uploads/users/images/1693896235460_image%20(1)-min.png",
               width: 800,
               height: 600,
               alt: "jyotish bigyan",
