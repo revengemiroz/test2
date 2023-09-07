@@ -12,7 +12,7 @@ const About = () => {
         description={"this is description page"}
         openGraph={{
           type: "website",
-          title: "astro about",
+          title: "Flutter app banaune naughty boy about",
           description: "astro description",
           site_name: "Astro",
           defaultImageHeight: 600,
